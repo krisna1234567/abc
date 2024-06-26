@@ -1,2 +1,2 @@
 <?php
-echo 'fjlas';
+echo 'aku adala lelakuu';
